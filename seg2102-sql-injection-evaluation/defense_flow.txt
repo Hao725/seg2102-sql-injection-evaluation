@@ -1,0 +1,9 @@
+User Input
+    ↓
+Input Validation
+    ↓
+Prepared Statement / ORM Query
+    ↓
+Database
+    ↑
+Web Application Firewall (WAF)
